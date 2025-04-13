@@ -16,7 +16,8 @@ Entity-Relationship Diagram (ERD)
 
 
 
+
 ## Contributors:
-    #1. Rodgers @Rockjunior
+    #1. Rodgers @(Rockjunior)[https://github.com/Rockjunior]
     #2. 
     #3.
